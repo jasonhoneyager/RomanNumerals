@@ -1,0 +1,6 @@
+c:\users\jason\documents\visual studio 2015\Projects\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.exe.config
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.exe
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\RomanNumerals\RomanNumerals\bin\Debug\RomanNumerals.pdb
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.exe
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.pdb
+C:\Users\Jason\Documents\Visual Studio 2015\Projects\RomanNumerals\RomanNumerals\obj\Debug\RomanNumerals.csprojResolveAssemblyReference.cache
